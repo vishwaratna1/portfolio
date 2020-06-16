@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    color: azure;
+}
+
+footer{
+    background-color: #333333;
+    color: azure;
+    height: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+footer a{
+    color: azure;
+    text-decoration: none;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: azure;
+}
+
+footer span{
+    color: aqua;
+}
+
+i{
+    color: aqua;
+}
