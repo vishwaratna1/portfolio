@@ -119,5 +119,5 @@ export const ArrowRight = styled(MdKeyboardArrowRight)`
     font-size: 20px;
 `
 export const AnimatedText = styled(Typical)`
-    color: #0066ff;
+    color: #fff;
 `

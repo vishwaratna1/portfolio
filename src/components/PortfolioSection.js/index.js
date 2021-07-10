@@ -12,6 +12,7 @@ const PortfolioSection = () => {
                         <h2 className="text-center text-primary m-auto"><strong>Portfolio</strong></h2>
 
                     </div>
+                    
                     <div className="row mt-3">
                         <div className="col-12 col-md-6 d-flex justify-content-center">
                             <CardContainer>
@@ -20,7 +21,7 @@ const PortfolioSection = () => {
                                     <h6 className="text-center mt-2"><strong>Resume Builder</strong></h6>
                                     <br />
                                     <p>An easy Web Application for building awesome resume.  </p>
-                                    <a href="https://www.github.com/vishwaratna1" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Know More</a>
+                                    <a href="/" target="_blank" rel="noopener noreferrer"  className="btn btn-primary disabled">Know More</a>
                                 </div>
 
                             </CardContainer>

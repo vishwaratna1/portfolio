@@ -16,7 +16,7 @@ const HeroSection = () => {
                 <HeroP>
                     I'm a{' '}
                     <AnimatedText
-                        loop={Infinity}
+                        loop={5}
                         wrapper="p"
                         steps={[
                             'Full Stack Developer',

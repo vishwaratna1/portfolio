@@ -10,14 +10,13 @@ export const FooterContainer = styled.div`
     justify-content: center;
     align-items: center;
     padding: 0 30px;
-    height: 80px;
+    height: 120px;
     position: relative;
     z-index: 1;
 `
 
 export const CopyrightContainer = styled.p`
-    align-self: center;
-    text-align: center;
+    padding-bottom: 5px;
 `
 
 export const SiteLink = styled(Link)`
