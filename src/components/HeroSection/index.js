@@ -9,7 +9,7 @@ const HeroSection = () => {
         <HeroContainer>
             <HeroBg>
                 {/* <VideoBg autoplay loop muted src={video} type='video/mp4' /> */}
-                <ImageBg src={Image} type='image/jpg' />
+                <ImageBg src={Image} style={{pointerEvents: 'none'}} type='image/jpg' />
             </HeroBg>
             <HeroContent>
                 <HeroH1>Hi, I'm Vishwaratna</HeroH1>
