@@ -1,7 +1,7 @@
 import React from 'react'
 import project1 from '../../images/project1.png'
 import project2 from '../../images/project2.png'
-import { PortfolioContainer, CardContainer, Img } from './PortfolioElements'
+import { PortfolioContainer, CardContainer, Img, OptBr } from './PortfolioElements'
 
 const PortfolioSection = () => {
     return (
@@ -19,7 +19,7 @@ const PortfolioSection = () => {
                                 <Img src={project1} className="img-thumbnail img-fluid" type="image/png" />
                                 <div className="text-center">
                                     <h6 className="text-center mt-2"><strong>Resume Builder</strong></h6>
-                                    <br />
+                                    <OptBr />
                                     <p>An easy Web Application for building awesome resume.  </p>
                                     <a href="/" target="_blank" rel="noopener noreferrer"  className="btn btn-primary disabled"><i className="fa fa-cog fa-spin fa-lg text-dark"></i> Under Construction</a>
                                 </div>

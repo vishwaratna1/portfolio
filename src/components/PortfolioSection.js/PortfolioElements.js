@@ -40,3 +40,11 @@ export const Img = styled.img`
     border-radius: 10px;
     border-bottom: 2px solid blue;
 `
+
+export const OptBr = styled.br`
+    display: none;
+
+    @media screen and (max-width: 768px){
+        display: block;
+    }
+`
