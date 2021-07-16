@@ -12,7 +12,7 @@ export const PortfolioContainer = styled.div`
     z-index: 1;
 
     @media screen and (max-width: 768px) {
-        height: 850px;
+        height: 1200px;
     }
 `
 
@@ -46,5 +46,13 @@ export const OptBr = styled.br`
 
     @media screen and (max-width: 768px){
         display: block;
+    }
+`
+
+export const OptBr2 = styled.br`
+    display: block;
+
+    @media screen and (max-width: 768px){
+        display: none;
     }
 `
