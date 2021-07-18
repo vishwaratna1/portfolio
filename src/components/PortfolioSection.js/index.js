@@ -21,8 +21,8 @@ const PortfolioSection = () => {
                                 <div className="text-center">
                                     <h6 className="text-center mt-2"><strong>Resume Builder</strong></h6>
                                     <OptBr />
-                                    <p>An easy Web Application for building awesome resume.  </p>
-                                    <a href="/" target="_blank" rel="noopener noreferrer"  className="btn btn-primary disabled"><i className="fa fa-cog fa-spin fa-lg text-dark"></i> Under Construction</a>
+                                    <p>An easy Web Application for building resume.  </p>
+                                    <a href="https://resumebuilder.vishwaratna.works" target="_blank" rel="noopener noreferrer"  className="btn btn-primary">Know More</a>
                                 </div>
 
                             </CardContainer>
