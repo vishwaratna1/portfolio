@@ -23,7 +23,9 @@ const PortfolioSection = () => {
                                     <OptBr />
                                     <p>An easy Web Application for building resume.  </p>
                                     <OptBr2 />
-                                    <a href="https://resumebuilder.vishwaratna.works" target="_blank" rel="noopener noreferrer"  className="btn btn-primary">Know More</a>
+                                    <a href="https://resumebuilder.vishwaratna.works" target="_blank" rel="noopener noreferrer"  className="btn btn-primary">
+                                        <i className="fa fa-cog fa-spin"></i>Under Construction
+                                    </a>
                                 </div>
 
                             </CardContainer>
