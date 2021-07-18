@@ -22,6 +22,7 @@ const PortfolioSection = () => {
                                     <h6 className="text-center mt-2"><strong>Resume Builder</strong></h6>
                                     <OptBr />
                                     <p>An easy Web Application for building resume.  </p>
+                                    <OptBr2 />
                                     <a href="https://resumebuilder.vishwaratna.works" target="_blank" rel="noopener noreferrer"  className="btn btn-primary">Know More</a>
                                 </div>
 
