@@ -50,7 +50,7 @@ const PortfolioSection = () => {
                                 <div className="text-center">
                                     <h6 className="text-center mt-2"><strong>Odisha CHSE Marks Calculator</strong></h6>
                                     <p>A calcuator for the students of Odisha to predict their marks.</p>
-                                    <a href="#" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-disabled" disabled>Know More</a>
+                                    <a href="https://happenings.lpu.in/two-lpu-mca-students-created-web-application-for-students-of-odisha/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Know More</a>
                                 </div>
 
                             </CardContainer>
