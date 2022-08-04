@@ -23,7 +23,7 @@ const PortfolioSection = () => {
                                     <OptBr />
                                     <p>An easy Web Application for building resume.  </p>
                                     <OptBr2 />
-                                    <a href="https://resumebuilder.vishwaratna.works" target="_blank" rel="noopener noreferrer"  className="btn btn-primary">
+                                    <a href="https://resumebuilder-vishwaratna.vercel.app/" target="_blank" rel="noopener noreferrer"  className="btn btn-primary">
                                         <i className="fa fa-cog fa-spin"></i>Under Construction
                                     </a>
                                 </div>
@@ -38,7 +38,7 @@ const PortfolioSection = () => {
                                     <OptBr />
                                     <p>A Live Code Editor for viewing realtime code results.</p>
                                     <OptBr2 />
-                                    <a href="https://live-editor.vishwaratna.works/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Know More</a>
+                                    <a href="https://live-editor.vercel.app/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Know More</a>
                                 </div>
 
                             </CardContainer>
@@ -50,7 +50,7 @@ const PortfolioSection = () => {
                                 <div className="text-center">
                                     <h6 className="text-center mt-2"><strong>Odisha CHSE Marks Calculator</strong></h6>
                                     <p>A calcuator for the students of Odisha to predict their marks.</p>
-                                    <a href="https://www.adityapanda.codes/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Know More</a>
+                                    <a href="https://www.adityapanda.codes/" target="_blank" rel="noopener noreferrer" className="btn btn-primary" disabled>Know More</a>
                                 </div>
 
                             </CardContainer>
